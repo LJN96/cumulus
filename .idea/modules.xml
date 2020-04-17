@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ejb-multi-server.iml" filepath="$PROJECT_DIR$/ejb-multi-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-main/ejb-multi-server-app-main.iml" filepath="$PROJECT_DIR$/app-main/ejb-multi-server-app-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-main/ear/ejb-multi-server-app-main-ear.iml" filepath="$PROJECT_DIR$/app-main/ear/ejb-multi-server-app-main-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-main/ejb/ejb-multi-server-app-main-ejb.iml" filepath="$PROJECT_DIR$/app-main/ejb/ejb-multi-server-app-main-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-main/web/ejb-multi-server-app-main-web.iml" filepath="$PROJECT_DIR$/app-main/web/ejb-multi-server-app-main-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-one/ejb-multi-server-app-one.iml" filepath="$PROJECT_DIR$/app-one/ejb-multi-server-app-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-one/ear/ejb-multi-server-app-one-ear.iml" filepath="$PROJECT_DIR$/app-one/ear/ejb-multi-server-app-one-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-one/ejb/ejb-multi-server-app-one-ejb.iml" filepath="$PROJECT_DIR$/app-one/ejb/ejb-multi-server-app-one-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-two/ejb-multi-server-app-two.iml" filepath="$PROJECT_DIR$/app-two/ejb-multi-server-app-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-two/ear/ejb-multi-server-app-two-ear.iml" filepath="$PROJECT_DIR$/app-two/ear/ejb-multi-server-app-two-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-two/ejb/ejb-multi-server-app-two-ejb.iml" filepath="$PROJECT_DIR$/app-two/ejb/ejb-multi-server-app-two-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-web/ejb-multi-server-app-web.iml" filepath="$PROJECT_DIR$/app-web/ejb-multi-server-app-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/ejb-multi-server-client.iml" filepath="$PROJECT_DIR$/client/ejb-multi-server-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-api-updates/rest-api-updates.iml" filepath="$PROJECT_DIR$/rest-api-updates/rest-api-updates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testcode/testcode.iml" filepath="$PROJECT_DIR$/testcode/testcode.iml" />
+    </modules>
+  </component>
+</project>

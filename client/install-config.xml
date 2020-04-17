@@ -1,0 +1,19 @@
+<install-config>
+	<username>sa</username>
+	<password>Exe1Exe1</password>
+	<password2>Exe1Exe1</password2>
+	<sqlefacsadmin>Exe1Exe1</sqlefacsadmin>
+	<dbinfo>LEONAYLOR:1448</dbinfo>
+	<licencefile>C:\Program Files\EFACS\Licence\licence.jar</licencefile>
+	<mcc-configfile>C:\Program Files\EFACS\Licence\mcc-config.jar</mcc-configfile>
+	<installdir>C:\Program Files\EFACS</installdir>
+	<webapploc>C:\Program Files\EFACS\Wildfly</webapploc>
+	<dbsourceprefix>java:/</dbsourceprefix>
+	<smtpserver>:</smtpserver>
+	<previous-version>trunk</previous-version>
+	<previous-build>38634</previous-build>
+	<jbossmemory></jbossmemory>
+	<installation-type>Application</installation-type>
+	<applicationserver>"DEVTRUNK"</applicationserver>
+	<dbprovider>DB-SQLSERVER</dbprovider>
+</install-config>

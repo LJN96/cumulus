@@ -1,0 +1,11 @@
+org\jboss\as\quickstarts\ejb\multi\server\Commander$StreamHandler.class
+org\jboss\as\quickstarts\ejb\multi\server\ServerController.class
+org\jboss\as\quickstarts\ejb\multi\server\Commander$Command.class
+org\jboss\as\quickstarts\ejb\multi\server\UpdateScout.class
+org\jboss\as\quickstarts\ejb\multi\server\JsonUtils.class
+org\jboss\as\quickstarts\ejb\multi\server\TestMain.class
+org\jboss\as\quickstarts\ejb\multi\server\InstallConfig.class
+org\jboss\as\quickstarts\ejb\multi\server\Commander.class
+org\jboss\as\quickstarts\ejb\multi\server\Client.class
+org\jboss\as\quickstarts\ejb\multi\server\ServerController$SignalEnum.class
+org\jboss\as\quickstarts\ejb\multi\server\XmlToJava.class

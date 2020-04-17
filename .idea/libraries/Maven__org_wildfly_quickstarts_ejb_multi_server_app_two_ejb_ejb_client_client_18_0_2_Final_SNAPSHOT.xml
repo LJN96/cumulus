@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wildfly.quickstarts:ejb-multi-server-app-two-ejb:ejb-client:client:18.0.2.Final-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wildfly/quickstarts/ejb-multi-server-app-two-ejb/18.0.2.Final-SNAPSHOT/ejb-multi-server-app-two-ejb-18.0.2.Final-SNAPSHOT-client.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wildfly/quickstarts/ejb-multi-server-app-two-ejb/18.0.2.Final-SNAPSHOT/ejb-multi-server-app-two-ejb-18.0.2.Final-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wildfly/quickstarts/ejb-multi-server-app-two-ejb/18.0.2.Final-SNAPSHOT/ejb-multi-server-app-two-ejb-18.0.2.Final-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

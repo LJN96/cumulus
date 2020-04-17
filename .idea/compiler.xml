@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ejb-multi-server-app-one-ear" />
+        <module name="ejb-multi-server-app-two-ejb" />
+        <module name="ejb-multi-server-app-main-ejb" />
+        <module name="ejb-multi-server-client" />
+        <module name="ejb-multi-server-app-one-ejb" />
+        <module name="ejb-multi-server-app-two-ear" />
+        <module name="testcode" />
+        <module name="ejb-multi-server-app-main-ear" />
+        <module name="ejb-multi-server-app-main-web" />
+        <module name="ejb-multi-server-app-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ejb-multi-server" target="1.8" />
+      <module name="ejb-multi-server-app-main" target="1.8" />
+      <module name="ejb-multi-server-app-main-ear" target="1.8" />
+      <module name="ejb-multi-server-app-main-ejb" target="1.8" />
+      <module name="ejb-multi-server-app-main-web" target="1.8" />
+      <module name="ejb-multi-server-app-one" target="1.8" />
+      <module name="ejb-multi-server-app-one-ear" target="1.8" />
+      <module name="ejb-multi-server-app-one-ejb" target="1.8" />
+      <module name="ejb-multi-server-app-two" target="1.8" />
+      <module name="ejb-multi-server-app-two-ear" target="1.8" />
+      <module name="ejb-multi-server-app-two-ejb" target="1.8" />
+      <module name="ejb-multi-server-app-web" target="1.8" />
+      <module name="ejb-multi-server-client" target="1.8" />
+      <module name="testcode" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ejb-multi-server-app-main-ejb" options="-Xlint:unchecked" />
+      <module name="ejb-multi-server-app-main-web" options="-Xlint:unchecked" />
+      <module name="ejb-multi-server-app-one-ejb" options="-Xlint:unchecked" />
+      <module name="ejb-multi-server-app-two-ejb" options="-Xlint:unchecked" />
+      <module name="ejb-multi-server-app-web" options="-Xlint:unchecked" />
+      <module name="ejb-multi-server-client" options="-Xlint:unchecked" />
+      <module name="testcode" options="-Xlint:unchecked" />
+    </option>
+  </component>
+</project>
