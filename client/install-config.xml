@@ -1,7 +1,7 @@
 <install-config>
 	<username>sa</username>
-	<password>Exe1Exe1</password>
-	<password2>Exe1Exe1</password2>
+	<password>add-password</password>
+	<password2>add-password</password2>
 	<sqlefacsadmin>Exe1Exe1</sqlefacsadmin>
 	<dbinfo>LEONAYLOR:1448</dbinfo>
 	<licencefile>C:\Program Files\EFACS\Licence\licence.jar</licencefile>
